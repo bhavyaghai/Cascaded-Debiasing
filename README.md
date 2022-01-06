@@ -1,4 +1,4 @@
-# Debiasing Cascade: Studying the Cumulative Effect of MultipleFairness-Enhancing Interventions
+# Debiasing Cascade: Studying the Cumulative Effect of Multiple Fairness-Enhancing Interventions
 
 ** This is an anonymized private github repository for the reviewers of FAccT conference. It will be made public upon acceptance **
 
