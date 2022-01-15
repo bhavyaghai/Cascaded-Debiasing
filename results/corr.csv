@@ -1,0 +1,5 @@
+# interventions,False Positive Rate Diff,False Negative Rate Diff,Accuracy Diff,False Omission Rate Diff,False Discovery Rate Diff,Statistical Parity Diff,F1 Score Diff,Theil Index,Consistency
+0,0.748,0.42,0.385,0.42,0.329,0.678,0.58,0.708,-0.986
+1,0.343,-0.054,0.211,0.354,0.176,0.263,0.253,0.148,-0.628
+2,0.228,-0.11,0.15,0.24,0.148,0.109,0.115,-0.144,-0.481
+3,0.119,-0.185,0.189,0.058,-0.112,-0.056,0.073,-0.282,-0.167
