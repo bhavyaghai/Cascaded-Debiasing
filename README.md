@@ -1,7 +1,5 @@
 # Cascaded Debiasing: Studying the Cumulative Effect of Multiple Fairness-Enhancing Interventions
 
-- #### Read the paper [PDF](https://arxiv.org/abs/2103.03598)
-
 ## Overview
 
 Understanding the cumulative effect of multiple fairness enhancing interventions at different stages of the machine learning (ML) pipeline is a critical and underexplored facet of the fairness literature. For example, one might choose to debias the dataset, train a fairness aware classifier over it and then post-process the model's predictions to achieve more fairness. This paper takes the first step in exploring this area by undertaking an extensive empirical study comprising 60 combinations of interventions, 11 fairness metrics across 4 benchmark datasets. We quantitatively analyze the experimental data to measure the impact of multiple interventions on fairness, accuracy and population groups.
