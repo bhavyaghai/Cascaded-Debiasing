@@ -22,7 +22,12 @@ All the code resides in 4 jupyter notebooks. The notebook titled 'Conduct All In
 ## Citation
 
 ```
-Will be updated soon ...
+@article{ghai2022cascaded,
+  title={Cascaded Debiasing: Studying the Cumulative Effect of Multiple Fairness-Enhancing Interventions},
+  author={Ghai, Bhavya and Mishra, Mihir and Mueller, Klaus},
+  journal={arXiv preprint arXiv:2202.03734},
+  year={2022}
+}
 ```
 
 Feel free to email me for any questions, comments at bghai@cs.stonybrook.edu
