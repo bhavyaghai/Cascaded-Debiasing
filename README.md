@@ -17,7 +17,7 @@ Understanding the cumulative effect of multiple fairness enhancing interventions
 
 ## Code Overview
 
-All the code resides in 4 jupyter notebooks. The notebook titled 'Conduct All Interventions' contains the code for conducting all the simulations/experiments and recording the experimental data. The other 3 notebooks contains analysis on the experimental data to answer different research questions. All the experiemntal data for different datsets can be found in the data folder.
+All the code resides in 4 jupyter notebooks. The notebook titled 'Conduct All Interventions' contains the code for conducting all the simulations/experiments and recording the experimental data. The other 3 notebooks contains analysis on the experimental data to answer different research questions. All the experiemntal data for different datsets can be found in the data folder. For my system, fairlearn version 0.4.6 worked and not the lastest version (0.7.0).
 
 ## Citation
 
