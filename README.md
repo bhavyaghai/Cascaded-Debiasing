@@ -22,10 +22,11 @@ All the code resides in 4 jupyter notebooks. The notebook titled 'Conduct All In
 ## Citation
 
 ```
-@article{ghai2022cascaded,
-  title={Cascaded Debiasing: Studying the Cumulative Effect of Multiple Fairness-Enhancing Interventions},
+@inproceedings{ghai2022cascaded,
+  title={Cascaded debiasing: Studying the cumulative effect of multiple fairness-enhancing interventions},
   author={Ghai, Bhavya and Mishra, Mihir and Mueller, Klaus},
-  journal={arXiv preprint arXiv:2202.03734},
+  booktitle={Proceedings of the 31st ACM International Conference on Information \& Knowledge Management},
+  pages={3082--3091},
   year={2022}
 }
 ```
